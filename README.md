@@ -17,7 +17,7 @@
 - 🧠 **Classe:** Arquiteto de bugs que viram features  
 - 🧪 **Skill Passiva:** Refatoração Existencial  
 - 📍 **Habitat atual:** VS Code, Visual Studio e devaneios noturnos  
-- 🗓️ **Loop Temporal:** Estudando C#, HTML/CSS e JavaScript, indefinidamente
+- 🗓️ **Loop Temporal:** Estudando Python, HTML/CSS e JavaScript, indefinidamente
 
 ---
 
