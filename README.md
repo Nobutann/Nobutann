@@ -36,7 +36,7 @@
 ### 📡 <i>Contato ou invocação:</i>
 
 - 📧 Email: luizgonzagafilho201365@gmail.com  
-- 🧃 Discord: `@odemiurgo_  
+- 🧃 Discord: `@odemiurgo_`  
 - 🦇 GitHub: [@Nobutann](https://github.com/Nobutann)
 - 💼 LinkedIn: [gonzaga07](https://www.linkedin.com/in/gonzaga07/)
 
