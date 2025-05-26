@@ -21,6 +21,7 @@
 ---
 
 ## 📍 <i>Habitat atual<i>
+
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
@@ -46,6 +47,7 @@
 ---
 
 ## 🏆 <i>Minhas Linguagens mais Usadas<i>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobutann&layout=compact&theme=radical)
 
 ---
