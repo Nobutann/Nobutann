@@ -1,7 +1,7 @@
 <h1 align="center"><i>「もしもし、GitHub怪異です。」</i></h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sacred-toy.com%2Fprodutos%2Freserva-oshino-shinobu-clear-material-another-color-espresto-banpresto-bandai-spirits-monogatari-series%2F&psig=AOvVaw0k1bNx3Q9LZB_jL9JCrbrN&ust=1748342138709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMig-JX4wI0DFQAAAAAdAAAAABAE" width="240"/>
+  <img src="https://media1.tenor.com/m/yWgQgkw7rvkAAAAd/shinobu-oshino.gif" width="240"/>
 </p>
 
 <p align="center">
