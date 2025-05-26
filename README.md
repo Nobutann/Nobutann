@@ -45,6 +45,11 @@
 
 ---
 
+## 🏆 <i>Minhas Linguagens mais Usadas<i>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobutann&layout=compact&theme=radical)
+
+---
+
 ## 📡 <i>Contato ou invocação:</i>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luizgonzagafilho201365@gmail.com)
