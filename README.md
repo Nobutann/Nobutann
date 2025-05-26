@@ -46,5 +46,5 @@
 <p align="center"><i>“E agora, para o epílogo, ou melhor... para a piada.”</i></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/_XcNjYXQ_dQAAAAC/monogatari-shinobu.gif" width="180"/>
+  <img src="https://media1.tenor.com/m/NFFpbzzGttoAAAAC/monogatari-series-oshino-shinobu.gif" width="180"/>
 </p>
