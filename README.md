@@ -40,7 +40,7 @@
 
 ---
 
-## <i>GitHub Stats<i>
+## 🐱 <i>GitHub Stats<i>
 ![Luiz's Stats](https://github-readme-stats.vercel.app/api?username=Nobutann&show_icons=true&theme=radical)
 
 ---
