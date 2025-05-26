@@ -38,6 +38,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+---
+
+## <i>GitHub Stats<i>
+![Luiz's Stats](https://github-readme-stats.vercel.app/api?username=Nobutann&show_icons=true&theme=radical)
 
 ---
 
