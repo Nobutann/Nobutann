@@ -14,7 +14,7 @@
 
 ### ✒️ <i>Personagem</i>
 
-- 🧠 **Classe:** Arquiteto de bugs que viram features  
+- 🧠 **Classe:** Arquiteto de códigos duvidosamente funcionais  
 - 🧪 **Skill Passiva:** Refatoração Existencial  
 - 📍 **Habitat atual:** VS Code, Visual Studio, Linux Mint e devaneios noturnos  
 - 🗓️ **Loop Temporal:** Estudando Python, HTML/CSS e JavaScript, indefinidamente
