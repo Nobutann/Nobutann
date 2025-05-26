@@ -1,7 +1,7 @@
 <h1 align="center"><i>「もしもし、GitHub怪異です。」</i></h1>
 
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="21914900" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/shinobu-oshino-gif-21914900">Shinobu Oshino GIF</a>from <a href="https://tenor.com/search/shinobu+oshino-gifs">Shinobu Oshino GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width="240"/>
+  <img src="https://tenor.com/pt-BR/view/shinobu-oshino-gif-21914900" width="240"/>
 </p>
 
 <p align="center">
