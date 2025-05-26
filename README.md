@@ -16,7 +16,12 @@
 
 - 🧠 **Classe:** Arquiteto de códigos duvidosamente funcionais  
 - 🧪 **Skill Passiva:** Refatoração Existencial  
-- 📍 **Habitat atual:** VS Code, Visual Studio, Linux Mint e devaneios noturnos  
+- 📍 **Habitat atual:** [![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+![Devaneios Noturnos](https://img.shields.io/badge/🌙_Devaneios_Noturnos-6A0DAD?style=for-the-badge)
+
+  
 - 🗓️ **Loop Temporal:** Estudando Python, HTML/CSS e JavaScript, indefinidamente
 
 ---
