@@ -29,7 +29,7 @@
 ---
 
 
-## 🎴 <i>Habilidades</i>
+## 🎴 <i>Linguagens e tecnologias</i>
 
 ![HTML](https://img.shields.io/badge/HTML5-b7472a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-29386c?style=for-the-badge&logo=css3&logoColor=white)
