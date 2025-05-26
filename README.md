@@ -12,21 +12,24 @@
 
 ---
 
-### ✒️ <i>Personagem</i>
+## ✒️ <i>Personagem</i>
 
 - 🧠 **Classe:** Arquiteto de códigos duvidosamente funcionais  
 - 🧪 **Skill Passiva:** Refatoração Existencial  
-- 📍 **Habitat atual:** [![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
-![Devaneios Noturnos](https://img.shields.io/badge/🌙_Devaneios_Noturnos-6A0DAD?style=for-the-badge)
-
-  
 - 🗓️ **Loop Temporal:** Estudando Python, HTML/CSS e JavaScript, indefinidamente
 
 ---
 
-### 🎴 <i>Habilidades</i>
+## 📍 <i>Habitat atual<i>
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+![Devaneios Noturnos](https://img.shields.io/badge/🌙_Devaneios_Noturnos-6A0DAD?style=for-the-badge)
+
+---
+
+
+## 🎴 <i>Habilidades</i>
 
 ![HTML](https://img.shields.io/badge/HTML5-b7472a?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-29386c?style=flat-square&logo=css3&logoColor=white)
@@ -38,7 +41,7 @@
 
 ---
 
-### 📡 <i>Contato ou invocação:</i>
+## 📡 <i>Contato ou invocação:</i>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luizgonzagafilho201365@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/odemiurgo_)
