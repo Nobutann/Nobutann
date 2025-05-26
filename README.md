@@ -1,7 +1,7 @@
 <h1 align="center"><i>「もしもし、GitHub怪異です。」</i></h1>
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/shinobu-oshino-gif-21914900" width="240"/>
+  [Shinobu](https://tenor.com/pt-BR/view/shinobu-oshino-gif-21914900)
 </p>
 
 <p align="center">
