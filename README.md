@@ -1,13 +1,8 @@
 <h1 align="center"><i>「もしもし、GitHub怪異です。」</i></h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/yWgQgkw7rvkAAAAd/shinobu-oshino.gif" width="240"/>
-</p>
-
-<p align="center">
   <strong><i>Luiz Gonzaga.</i></strong><br>
-  Um nome que ecoa nos repositórios como uma maldição sagrada.  
-  Nem herói. Nem vilão. Apenas... um dev.
+  Buscando sempre melhorar e aprender tudo que posso
 </p>
 
 ---
