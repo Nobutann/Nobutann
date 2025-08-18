@@ -11,7 +11,7 @@
 
 - 🧠 **Classe:** Arquiteto de códigos duvidosamente funcionais  
 - 🧪 **Skill Passiva:** Refatoração Existencial  
-- 🗓️ **Loop Temporal:** Estudando Python, HTML/CSS e JavaScript, indefinidamente
+- 🗓️ **Loop Temporal:** Estudando Python, C e Django indefinidamente
 
 ---
 
@@ -19,18 +19,19 @@
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Devaneios Noturnos](https://img.shields.io/badge/🌙_Devaneios_Noturnos-6A0DAD?style=for-the-badge)
 
 ---
 
 
-## 🎴 <i>Linguagens e tecnologias</i>
+## 🎴 <i>Linguagens e frameworks</i>
 
 ![HTML](https://img.shields.io/badge/HTML5-b7472a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-29386c?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-fdc134?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
