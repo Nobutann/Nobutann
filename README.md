@@ -4,7 +4,7 @@
 
 ---
 
-## ✒️ <i>Personagem</i>
+## <i>Personagem</i>
 
 - **Classe:** Arquiteto de códigos duvidosamente funcionais  
 - **Skill Passiva:** Refatoração Existencial  
