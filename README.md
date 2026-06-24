@@ -1,54 +1,74 @@
-<h1 align="center"> <strong><i>Luiz Gonzaga.</i></strong><br></h1>
+<h1 align="center">Luiz Gonzaga</h1>
 
-<p align="center">Buscando sempre melhorar e aprender tudo que posso</p>
+<p align="center">
+  Estudante de Ciência da Computação na CESAR School · Recife, PE<br>
+</p>
 
----
-
-## <i>Personagem</i>
-
-- **Classe:** Arquiteto de códigos duvidosamente funcionais  
-- **Skill Passiva:** Refatoração Existencial  
-- **Loop Temporal:** Estudando Python, C e Java indefinidamente
-
----
-
-## <i>Habitat atual<i>
-
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/br/software/jira)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gonzaga07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lgonzaga.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+## Sobre mim
 
-## <i>Linguagens e frameworks</i>
+- 3º período em Ciência da Computação - CESAR School
+- Monitor de Programação Imperativa e Funcional (linguagem C)
+- Experiência com desenvolvimento web full-stack, APIs REST e banco de dados
+- Inglês avançado
 
+---
+
+## Tecnologias
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdc134?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-b7472a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-29386c?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-fdc134?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## <i>GitHub Stats<i>
-![Luiz's Stats](https://github-readme-stats.vercel.app/api?username=Nobutann&show_icons=true&theme=radical)
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [AnimeNews](https://github.com/Nobutann/AnimeNews) | App full-stack de acompanhamento de animes com autenticação, notificações push e busca via API | Next.js · TypeScript · PostgreSQL · Prisma |
+| [Polaris](https://github.com/Nobutann/Polaris) | Plataforma de monitoramento com painel de indicadores e priorização de casos | Spring Boot · React · Vite |
+| [OtakuVerse](https://github.com/Nobutann/OtakuVerse) | Sistema web de gerenciamento de animes com testes automatizados e fluxo de CI | Django · Python · Cypress |
+| [RainCife](https://github.com/Nobutann/RainCife) | Jogo 2D com fases, chefes, modo história e ranking | C · Raylib |
+| [Touhou Lost Snail](https://github.com/Nobutann/TouhouLostSnail) | Bullet hell com padrões de ataque, bombas e modo foco | C · Raylib |
 
 ---
 
-## <i>Minhas Linguagens mais Usadas<i>
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobutann&layout=compact&theme=radical)
-
----
-
-## <i>Contato:</i>
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lgonzaga.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lu.gonzaga_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzaga07/)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nobutann&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobutann&layout=compact&theme=radical&hide_border=true"/>
+</p>
